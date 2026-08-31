@@ -421,6 +421,15 @@ h2 {
     color: #b8c2d2;
 }
 
+.contact .button.secondary {
+    color: #172033;
+    background: #ffffff;
+}
+
+.contact .button.secondary:hover {
+    color: #1264ff;
+    border-color: #1264ff;
+}
 
 /* =========================
    FOOTER
